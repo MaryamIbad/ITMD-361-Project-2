@@ -94,5 +94,10 @@ ul li{
 
 /* Change the link color to #111 (black) on hover */
 #header li a:hover {
-    background-color: #111;
+    background-color: #222222;
+}
+
+.active{
+	background-color: #2ecc71;
+	color:white;
 }
